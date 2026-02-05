@@ -1,1 +1,2 @@
-__all__ = ['run_dq']\nfrom .runner import run_dq
+__all__ = ['run_dq']
+from .runner import run_dq
