@@ -1,0 +1,14 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# data & outputs
+data/raw/
+outputs/
+data/sample/*.xlsx
+
+# pytest
+.pytest_cache/
